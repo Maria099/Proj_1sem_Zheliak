@@ -1,0 +1,6 @@
+V1=int(input())
+V2=int(input())
+T=int(input())
+S=int(input())
+S1=S-T*(V1+V2)
+print(S1)
